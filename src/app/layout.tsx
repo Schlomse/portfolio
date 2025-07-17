@@ -14,8 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Dominik Doe",
-  description: "Das persönliche Portfolio von Dominik Doe – Fullstack Developer, UI/UX Enthusiast und Webtechnologien-Experte.",
+  title: "Portfolio | Dominik",
 };
 
 export default function RootLayout({
